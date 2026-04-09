@@ -3,7 +3,7 @@
 **SEO Architect · AI Search Strategy · Digital Marketing**  
 *20+ năm Công nghệ · Gần 8 năm SEO thực chiến ngành Du lịch*
 
-📍 TP. Hồ Chí Minh &nbsp;|&nbsp; 🌐 [dulichviet.com.vn](https://dulichviet.com.vn) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/nguyen-duy-kien)
+📍 TP. Hồ Chí Minh &nbsp;|&nbsp; 🌐 [dulichviet.com.vn](https://dulichviet.com.vn/nguyen-duy-kien-seo-du-lich-viet) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/nguyen-duy-kien)
 
 ---
 
