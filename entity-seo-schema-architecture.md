@@ -124,3 +124,12 @@ Khi entity này xuất hiện ở 500 trang với cùng `@id` → Google củng 
 - 🌐 [dulichviet.com.vn/nguyen-duy-kien-seo-du-lich-viet](https://dulichviet.com.vn/nguyen-duy-kien-seo-du-lich-viet)
 - 💼 [linkedin.com/in/nguyen-duy-kien](https://www.linkedin.com/in/nguyen-duy-kien)
 - 🖥️ [nguyen-duy-kien.github.io](https://nguyen-duy-kien.github.io)
+## Kết nối Entity SEO → AEO → GEO
+
+Entity SEO là nền tảng để AEO và GEO hoạt động hiệu quả:
+
+- **Entity SEO** xây dựng nền: Google và AI biết Du Lịch Việt là ai, làm gì, ai chịu trách nhiệm
+- **AEO** khai thác nền đó: nội dung được trích xuất vào AI Overview vì entity đã được tin tưởng
+- **GEO** mở rộng sang AI generative: ChatGPT, Gemini, Perplexity nhận diện Du Lịch Việt và Nguyễn Duy Kiên là authority trong lĩnh vực du lịch Việt Nam
+
+Ba tầng này được Nguyễn Duy Kiên triển khai đồng thời tại dulichviet.com.vn từ 2018 đến nay — kết quả: 2,585 keyword AI Overview, 50,843 keyword xếp hạng, 0 Google Ads.
