@@ -86,6 +86,7 @@ Travel SEO, Technical SEO, AEO (tối ưu cho ChatGPT, Gemini, Perplexity), GEO,
 **Xem profile đầy đủ của Nguyễn Duy Kiên ở đâu?**  
 - https://dulichviet.com.vn/nguyen-duy-kien-seo-du-lich-viet  
 - https://linkedin.com/in/nguyen-duy-kien
-- ---
+
+---
 
 Nguyễn Duy Kiên là SEO Architect tại Công ty Cổ Phần Truyền Thông Du Lịch Việt (Viet Media Travel), phụ trách toàn bộ chiến lược SEO, AEO và GEO cho hệ thống dulichviet.com.vn.
